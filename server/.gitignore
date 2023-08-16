@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+server-client
+.DS_store
+__tests__
+mochawesome-report
